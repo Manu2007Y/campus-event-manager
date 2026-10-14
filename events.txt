@@ -3,3 +3,4 @@ sports
 informals
 concert
 dj
+coding competition
